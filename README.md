@@ -55,7 +55,7 @@
   <main>
     <h2>SANAT CAMIYASINI KAHREDEN HABER...</h2>
     <div class="container">
-      <img src="Screenshot_2024-04-16-16-02-13-96.zip" alt="KAHREDEN HABER">
+      <img src="https://photos.app.goo.gl/WAva8f7iN7VxK8Fg6" alt="KAHREDEN HABER">
       <p>Bu sabah 6:52'de Enes evinde canlı bulundu.</p> <!-- Added closing tag for the <p> element -->
     </div> <!-- Added closing tag for the <div> element -->
   </main>
