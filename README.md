@@ -30,7 +30,7 @@
     }
 
     nav ul li a {
-      color: #333;
+      color: #fff; /* Changed link color to white */
       text-decoration: none;
     }
 
@@ -55,8 +55,9 @@
   <main>
     <h2>enes</h2>
     <div class="container">
-        <img src="content://media/external/downloads/2615" alt="KAHREDEN HABER">
-    <p>Bu sabah 6:52'de Enes evinde canli bulundu.</p>
+      <img src="Screenshot_2024-04-16-16-02-09-16_572064f74bd5f9fa804b05334aa4f912.jpg" alt="KAHREDEN HABER">
+      <p>Bu sabah 6:52'de Enes evinde canlı bulundu.</p> <!-- Added closing tag for the <p> element -->
+    </div> <!-- Added closing tag for the <div> element -->
   </main>
   <footer>
     <p>&copy; ENESIN IZINDEYIZ</p>
