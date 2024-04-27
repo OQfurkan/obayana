@@ -53,9 +53,9 @@
     </ul>
   </nav>
   <main>
-    <h2>enes</h2>
+    <h2>SANAT CAMIYASINI KAHREDEN HABER...</h2>
     <div class="container">
-      <img src="Screenshot_2024-04-16-16-02-09-16_572064f74bd5f9fa804b05334aa4f912.jpg" alt="KAHREDEN HABER">
+      <img src="Screenshot_2024-04-16-16-02-13-96.zip" alt="KAHREDEN HABER">
       <p>Bu sabah 6:52'de Enes evinde canlı bulundu.</p> <!-- Added closing tag for the <p> element -->
     </div> <!-- Added closing tag for the <div> element -->
   </main>
