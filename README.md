@@ -55,7 +55,7 @@
   <main>
     <h2>SANAT CAMIYASINI KAHREDEN HABER...</h2>
     <div class="container"> 
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_siJse7bFwGwOUtjlCJnewT3wnLNeJs49pqANUJgvh36R-xMD2JEWXY&s=10" alt="KAHREDEN HABER" style="width: 100%;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_siJse7bFwGwOUtjlCJnewT3wnLNeJs49pqANUJgvh36R-xMD2JEWXY&s=10" alt="KAHREDEN HABER" style="width: 50%;">
       <p>Bu sabah 6:52'de MAYMUN FERHAT evinde canlı bulundu.</p>
     </div>
   </main>
