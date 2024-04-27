@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Basit Web Sitesi</title>
+  <title>ENESIN IZINDEYIZ</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -47,17 +47,19 @@
   </header>
   <nav>
     <ul>
-      <li><a href="#">Anasayfa</a></li>
-      <li><a href="#">Hakkımızda</a></li>
-      <li><a href="#">İletişim</a></li>
+      <li><a href="https://gurcomyazilim.com/">Anasayfa</a></li>
+      <li><a href="https://gurcomyazilim.com/">Hakkımızda</a></li>
+      <li><a href="https://gurcomyazilim.com/">İletişim</a></li>
     </ul>
   </nav>
   <main>
-    <h2>Burası Ana İçerik Alanı</h2>
-    <p>Web sitesinin ana içeriği burada yer alır.</p>
+    <h2>enes</h2>
+    <div class="container">
+        <img src="content://media/external/downloads/2615" alt="KAHREDEN HABER">
+    <p>Bu sabah 6:52'de Enes evinde canli bulundu.</p>
   </main>
   <footer>
-    <p>&copy; 2024 Basit Web Sitesi</p>
+    <p>&copy; ENESIN IZINDEYIZ</p>
   </footer>
 </body>
 </html>
