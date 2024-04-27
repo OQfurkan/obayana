@@ -1,39 +1,63 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
-    margin: 0;
-    padding: 0;
-}
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Basit Web Sitesi</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
 
-.container {
-    width: 80%;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #fff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
+    header, nav, main, footer {
+      padding: 20px;
+    }
 
-h1 {
-    font-size: 24px;
-    color: #007bff;
-}
+    header {
+      background-color: #333;
+      color: #fff;
+    }
 
-p {
-    font-size: 16px;
-    line-height: 1.5;
-}
+    nav ul {
+      list-style-type: none;
+      padding: 0;
+    }
 
-.button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
-}
+    nav ul li {
+      display: inline;
+      margin-right: 10px;
+    }
 
-.button:hover {
-    background-color: #0056b3;
-}
+    nav ul li a {
+      color: #333;
+      text-decoration: none;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Hoş Geldiniz!</h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#">Anasayfa</a></li>
+      <li><a href="#">Hakkımızda</a></li>
+      <li><a href="#">İletişim</a></li>
+    </ul>
+  </nav>
+  <main>
+    <h2>Burası Ana İçerik Alanı</h2>
+    <p>Web sitesinin ana içeriği burada yer alır.</p>
+  </main>
+  <footer>
+    <p>&copy; 2024 Basit Web Sitesi</p>
+  </footer>
+</body>
+</html>
