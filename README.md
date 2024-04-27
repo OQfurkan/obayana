@@ -1,42 +1,39 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GURCOM</title>
-    <link rel="stylesheet" href="style.css"> <!-- CSS dosyasÄ±nÄ± baÄźlama -->
-</head>
-<body>
-    <header>
-        <h1>Welcome To The gurcom</h1>
-        <nav>
-            <ul>
-                <li><a href="https://gurcomyazilim.com/">Home</a></li>
-                <li><a href="https://gurcomyazilim.com/">About</a></li>
-                <li><a href="https://gurcomyazilim.com/">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
-    
-    <main>
-        <section>
-            <h2>GURCOM HAKKİNDA</h2>
-            <p>Orduya linux kurdum.
-              Asker yanlis fisi cektigi icin carpildim
-              ONEMLİ VE GİZLİ BİLGİ...
-              İstediginiz sorudan basliya bilirsiniz.
-              ve 
-              İsledigimiz yere kadar cikcak
-            </p>
-        </section>
-        
-        <section>
-            <h2>İletisim</h2>
-            <p>Gurcomlinux@gmail.com</p>
-        </section>
-    </main>
-    
-    <footer>
-        <p>Bu kod calintidir (ENESİN İZİNDEYİZ).</p>
-    </footer>
-</body>
-</html>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 24px;
+    color: #007bff;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
